@@ -16,12 +16,7 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
-            <FaInstagram className="icons" />
-          </a>
-          <a href="https://www.google.com" target="_blank" className="items">
-            <CiFacebook className="icons" />
-          </a>
+         
           <a href="https://www.linkedin.com/in/sanjay-kumar-3ab6321aa/?trk=opento_sprofile_details" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
