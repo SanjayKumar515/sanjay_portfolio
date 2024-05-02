@@ -1,0 +1,15 @@
+[
+	{
+		"id": 1,
+		"role": "Consultant Software Engineer",
+		"organisation": "Expedien Esolution Private Limited",
+		"startDate": "JULY, 2022",
+		"endDate": "Present",
+		"location": "U.P ,Noida sector - 63 ,India",
+		"experiences": [
+			"Worked on MJPRU Student Portal App",
+			"Worked on MLSU Student and Employee Portal App"
+		],
+		"imageSrc": "company/exp.png"
+	}
+]
