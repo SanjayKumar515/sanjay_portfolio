@@ -3,12 +3,12 @@ import project from "./data/projects.json";
 
 const Projects = () => {
   return (
-    <>
+    
       <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
         <div className="row d-flex justify-content-center align-content-center">
           {project.map((data) => (
-            <>
+            
               <div
                 key={data.id}
                 className="my-4 col-sm-6 col-md-4 col-lg-3 mx-4"
@@ -48,11 +48,11 @@ const Projects = () => {
                   </div>
                 </div>
               </div>
-            </>
+            
           ))}
         </div>
       </div>
-    </>
+    
   );
 };
 

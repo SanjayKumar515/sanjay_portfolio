@@ -1,34 +1,38 @@
 [
-  {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
-  },
-  {
-    "title": "TypeScript",
-    "imageSrc": "skills/typeScript.png"
-  },
-  {
-    "title": "React",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title": "React-Native",
-    "imageSrc": "skills/react.png"
-  },
-  {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  }
+	{
+		"title": "HTML",
+		"imageSrc": "skills/html.png"
+	},
+	{
+		"title": "CSS",
+		"imageSrc": "skills/css.png"
+	},
+	{
+		"title": "JavaScript",
+		"imageSrc": "skills/javascript.png"
+	},
+	{
+		"title": "TypeScript",
+		"imageSrc": "skills/typeScript.png"
+	},
+	{
+		"title": "React",
+		"imageSrc": "skills/react.png"
+	},
+	{
+		"title": "React-Native",
+		"imageSrc": "skills/react.png"
+	},
+	{
+		"title": "Firebase",
+		"imageSrc": "skills/firebase.png"
+	},
+	{
+		"title": "MongoDB",
+		"imageSrc": "skills/mongodb.png"
+	},
+	{
+		"title": "Github",
+		"imageSrc": "skills/github.png"
+	}
 ]

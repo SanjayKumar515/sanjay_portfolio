@@ -8,7 +8,7 @@ import { SiGmail } from "react-icons/si";
 
 const Contact = () => {
   return (
-    <>
+   
       <div className="container contact" id="contact">
         <h1>CONTACT ME</h1>
         <div
@@ -32,7 +32,7 @@ const Contact = () => {
           </a>
         </div>
       </div>
-    </>
+  
   );
 };
 
