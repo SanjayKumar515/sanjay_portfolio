@@ -102,6 +102,6 @@ const projects = [
       "Redefining dating by encouraging shared real-world adventures like hiking, skydiving, and more.",
     technologies: [ "React js", "Context API", "Chakra UI" ],
     image: "FilipinaLuv.png",
-    webUrl: "https://www.filipinaluv.com/welcome"
+    webUrl: "https://www.filipinaluv.com"
   },
 ];
