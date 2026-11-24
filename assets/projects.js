@@ -20,16 +20,6 @@ const projects = [
     iosUrl: "https://apps.apple.com/us/app/ecare-for-therapists/id6477288287",
   },
   {
-    name: "VendVet - Find Vending Events",
-    description:
-      "Discover and participate in vending events across the country as a vendor or enthusiast.",
-    technologies: [ "React Native", "Context API" ],
-    image: "vendvet.png",
-    androidUrl: "https://play.google.com/store/apps/details?id=com.vendvet",
-    iosUrl:
-      "https://apps.apple.com/us/app/vendvet-find-vending-events/id6499424363",
-  },
-  {
     name: "The Fractional Coach",
     description:
       "Chat-based career coaching app offering flexible and personalized guidance without long-term commitments.",
